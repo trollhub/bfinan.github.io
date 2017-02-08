@@ -1,0 +1,17 @@
+# Site settings
+title: Probably Approximately Incorrect
+email: bfinan@iastate.edu
+description: "The world's worst machine learning blog."
+baseurl: ""
+url: "http://bfinan.github.io"
+github_username:  bfinan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: blue
+kramdown:
+  input: GFM
+  auto_ids: true
+syntax_highlighter: cyan
